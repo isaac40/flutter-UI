@@ -21,13 +21,4 @@ samples, guidance on mobile development, and a full API reference.
 [My Github](https://github.com/isaac40),
 📫  Reach me  **0923113852@gmail.com**
 
-![ScreenShot](https://github.com/wayne900204/Flutter-Stream-Bloc-Sqflite/blob/main/sqflite.gif)
-"# Flutter-_UI" 
-"# Flutter-_UI" 
-"# Flutter-_UI" 
-"# Flutter-_UI" 
-"# flutter_UI" 
-"# flutter_UI" 
-"# flutter-UI" 
-"# flutter-UI" 
-"# flutter-UI" 
+![ScreenShot](https://github.com/isaac40/flutter-UI/blob/main/flutter.png)
